@@ -1,0 +1,112 @@
+<resources>
+
+    <string name="name_user">name</string>
+    <string name="followers">followers</string>
+    <string name="followers_user">followers_user</string>
+    <string name="following">following</string>
+    <string name="following_user">following_user</string>
+    <string name="company">company</string>
+    <string name="company_user">company_user</string>
+    <string name="repository">repository</string>
+    <string name="repository_user">repository_user</string>
+    <string name="share">share</string>
+
+
+    <string-array name="username">
+        <item>JakeWharton</item>
+        <item>amphitheater</item>
+        <item>romaine</item>
+        <item>christian</item>
+        <item>tipsy</item>
+        <item>ravi8x</item>
+        <item>jest</item>
+        <item>buddy</item>
+        <item>Wendi</item>
+        <item>siding</item>
+    </string-array>
+
+    <string-array name="name">
+        <item>Jake Wharton</item>
+        <item>Amit Shikhar</item>
+        <item>Romain Guy</item>
+        <item>Chris Banes</item>
+        <item>David</item>
+        <item>Ravi Tamara</item>
+        <item>Deny Pareto</item>
+        <item>Buddie Octavian</item>
+        <item>Hedi Santiago</item>
+        <item>Sided Perlman</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Pittsburgh, PA, USA</item>
+        <item>New Delhi, India</item>
+        <item>California</item>
+        <item>Sydney, Australia</item>
+        <item>Trondheim, Norway</item>
+        <item>India</item>
+        <item>Cottage, Jogjakarta, Indonesia</item>
+        <item>Jakarta, Indonesia</item>
+        <item>Bojangles - Bandung Java Brat</item>
+        <item>Jakarta Indonesia</item>
+    </string-array>
+
+    <string-array name="repository">
+        <item>102</item>
+        <item>37</item>
+        <item>9</item>
+        <item>30</item>
+        <item>56</item>
+        <item>28</item>
+        <item>44</item>
+        <item>110</item>
+        <item>1064</item>
+        <item>65</item>
+    </string-array>
+
+    <string-array name="followers">
+        <item>56995</item>
+        <item>5153</item>
+        <item>7972</item>
+        <item>14725</item>
+        <item>788</item>
+        <item>18628</item>
+        <item>277</item>
+        <item>178</item>
+        <item>428</item>
+        <item>465</item>
+    </string-array>
+
+    <string-array name="following">
+        <item>12</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>3</item>
+        <item>39</item>
+        <item>23</item>
+        <item>61</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="avatar">
+        <item>@drawable/user1</item>
+        <item>@drawable/user2</item>
+        <item>@drawable/user3</item>
+        <item>@drawable/user4</item>
+        <item>@drawable/user5</item>
+        <item>@drawable/user6</item>
+        <item>@drawable/user7</item>
+        <item>@drawable/user8</item>
+        <item>@drawable/user9</item>
+        <item>@drawable/user10</item>
+    </string-array>
+
+
+    <item name="text_name" type="id">text_name</item>
+    <item name="text_username" type="id">tetx_username</item>
+    <item name="img_avatar" type="id">img_avatar</item>
+</resources>
+
+
